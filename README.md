@@ -2,6 +2,4 @@
 
 Doc
 
-function MyFirstClass:add()
-print("hello")
-end
+
