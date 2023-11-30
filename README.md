@@ -9,6 +9,7 @@
 ]=]
 
 function MyFirstClass:add(a, b)
+    print("yes")
     return a + b
 end
 
