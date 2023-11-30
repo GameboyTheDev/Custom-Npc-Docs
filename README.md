@@ -1,11 +1,5 @@
 # Custom-Npc 
 
---- @class MyFirstClass
----
---- This is my first class.
-local MyFirstClass = {}
-MyFirstClass.__index = MyFirstClass
-
 --[=[
     This is a very fancy function that adds a couple numbers.
 
