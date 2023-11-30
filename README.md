@@ -1,6 +1,9 @@
 # Custom-Npc 
 
+local a = {}
+
 --[=[
+    @class a
     @method Idk
 ]=]
 
