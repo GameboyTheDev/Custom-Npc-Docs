@@ -1,5 +1,9 @@
 # Custom-Npc 
 
-Doc
+--[=[
+    @method Idk
+]=]
 
-
+function a()
+print("foo")
+end
