@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Custom-Npc",
   description: "",
-  base: "/base/",
+  base: "/Custom-Npc-Docs/",
   themeConfig: {
     logo: '/assets/CustomNpcIconNoBG.png',
 
