@@ -7,7 +7,12 @@ export default defineConfig({
 
   base: "/Custom-Npc-Docs/",
 
-  head: [['link', { rel: 'icon', href: '/Custom-Npc-Docs/assets/favicon.ico' }]],
+  head: [
+    [
+      'link',
+      { rel: 'icon', type: 'image/x-icon', href: '/Custom-Npc-Docs/assets/favicon.ico' }
+    ]
+  ],
 
   themeConfig: {
     logo: '/assets/CustomNpcIconNoBG.png',
