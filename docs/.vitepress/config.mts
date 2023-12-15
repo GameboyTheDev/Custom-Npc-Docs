@@ -4,15 +4,29 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Custom-Npc",
   description: "",
+
   base: "/Custom-Npc-Docs/",
+
+  head: [['link', { rel: 'icon', href: '/Custom-Npc-Docs/assets/favicon.ico' }]],
+
   themeConfig: {
     logo: '/assets/CustomNpcIconNoBG.png',
 
+    editLink: {
+      pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+      text: 'Edit this page on GitHub'
+    },
+
+    footer: {
+      message: 'Built With VitePress',
+      copyright: 'Copyright © 2019-present GameboyTheDev'
+    },
+
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "Guide", link: './guide/index' },
-      { text: "Learn more", link: './learnmore' },
-      { text: "Changelog", link: './changelog' },
+      { text: "Guide", link: '/guide/index' },
+      { text: "Learn more", link: '/learnmore' },
+      { text: "Changelog", link: '/changelog' },
       { text: "Install", link: "https://create.roblox.com/marketplace/asset/14535952834/" }
 
       // { text: 'Home', link: '/' },
@@ -22,7 +36,7 @@ export default defineConfig({
     sidebar: {
       '/guide/': [
         {
-          text: 'Custom-Npc Docs',
+          text: 'Guide',
           items: [
             { text: 'Creating An Npc', link: '/guide/' },
             { text: 'Saving & Loading Npcs', link: '/guide/savingandloading' },
@@ -34,7 +48,8 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/GameboyTheDev/Custom-Npc-Docs' },
+      // { icon: {svg: "/assets/DevforumIcon"}, link: 'https://devforum.roblox.com/t/custom-npc-customizing-npcs-just-got-a-lot-easier'}
     ],
   }
 })

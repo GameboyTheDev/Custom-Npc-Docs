@@ -11,11 +11,11 @@ hero:
       text: Install The Plugin
       link: "https://create.roblox.com/marketplace/asset/14535952834/"
     - theme: alt
-      text: Getting Started
-      link: ./guide/index
-    - theme: alt
       text: Learn more
       link: ./learnmore
+    - theme: alt
+      text: Guide
+      link: ./guide/index
     # - theme: brand
     #   text: Markdown Examples
     #   link: /markdown-examples
