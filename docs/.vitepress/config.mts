@@ -10,7 +10,7 @@ export default defineConfig({
   head: [
     [
       'link',
-      { rel: 'icon', type: 'image/x-icon', href: '/Custom-Npc-Docs/assets/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/Custom-Npc-Docs/favicon.ico' }
     ]
   ],
 
