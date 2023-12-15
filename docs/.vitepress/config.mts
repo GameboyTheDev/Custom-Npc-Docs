@@ -2,17 +2,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+
   title: "Custom-Npc",
   description: "The Offical Documentation/Guide for the roblox plugin 'Custom-Npc'.",
 
   base: "/Custom-Npc-Docs/",
-
-  head: [
-    [
-      'link',
-      { rel: 'icon', type: 'image/x-icon', href: '/Custom-Npc-Docs/favicon.ico' }
-    ]
-  ],
 
   themeConfig: {
     logo: '/assets/CustomNpcIconNoBG.png',
