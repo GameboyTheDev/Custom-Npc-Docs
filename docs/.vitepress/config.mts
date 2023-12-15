@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Custom-Npc",
-  description: "",
+  description: "The Offical Documentation/Guide for the roblox plugin 'Custom-Npc'.",
 
   base: "/Custom-Npc-Docs/",
 

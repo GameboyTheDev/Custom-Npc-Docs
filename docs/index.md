@@ -24,10 +24,10 @@ hero:
     #   link: /api-examples
 
 features:
-  - title: ❗Lots Of Features
+  - title: ❗ Lots Of Features
     details: Custom-Npc includes alot of features! Such as adding in animations quickly, saving and loading characters, to just name a few...
-  - title: 🔥Easy To Use
+  - title: 🔥 Easy To Use
     details: Customize your npcs with a fresh and clean user interface
-  - title: 😎Compatible
+  - title: 😎 Compatible
     details: Custom-Npc is compatible with both R6 and R15!
 ---

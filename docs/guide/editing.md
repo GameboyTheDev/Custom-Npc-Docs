@@ -5,9 +5,7 @@
 
 To open the clothing editor UI just click on the red shirt icon that is on the top bar.
 
-::: warning
-Make sure you are already editing an npc
-:::
+In the clothing edtor you can also change the face of your npc.
 
 ![image](/assets/tutorialAssets/TopBarImage.png)
 
@@ -47,7 +45,7 @@ To open the animation inserter click on the purple film icon.
 ![image](/assets/tutorialAssets/TopBarImage.png)
 
 ::: info Note
-You can only select 1 animation bundle per npc
+You can only select 1 animation bundle per npc.
 :::
 
 To add in an animation to your npc, just click on an the animation bundle of your choice.
@@ -61,10 +59,6 @@ Once you have selected an animation bundle the plugin will let you know which bu
 <hr>
 
 To change your npc's skin color click on the paint brush icon to open the skin color editor.
-
-::: warning
-Make sure you are already editing an npc
-:::
 
 ![image](/assets/tutorialAssets/TopBarImage.png)
 

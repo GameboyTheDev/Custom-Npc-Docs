@@ -13,7 +13,7 @@ To start editing your npc again just click on your npc on the side bar to open t
 You also have the options to rename the npc and delete the npc from your list.
 
 ::: danger
-Once you delete an npc you cannot bring it back
+Once you delete an npc you cannot bring it back.
 :::
 
 The side bar also includes a search bar, useful for people who have a lot of saved characters.

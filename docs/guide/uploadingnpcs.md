@@ -3,7 +3,7 @@ Here is how you can upload npcs into your workspace.
 <hr>
 
 ::: info
-To upload an npc you must be editing it
+To upload an npc you must be editing it.
 :::
 
 To upload an npc click on the orange upload icon _that is next to the green create npc button_
