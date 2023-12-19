@@ -10,7 +10,7 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: '/Custom-Npc-Docs/favicon.ico' }]],
 
   themeConfig: {
-    logo: '/Custom-Npc-Docs/icon.png',
+    logo: '/Custom-Npc-Docs/icon.svg',
 
     editLink: {
       pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
