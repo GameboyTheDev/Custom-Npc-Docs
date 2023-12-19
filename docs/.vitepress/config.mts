@@ -11,7 +11,7 @@ export default defineConfig({
 
   themeConfig: {
     siteTitle: "Custom-Npc",
-    logo: "/assets/CustomNpcIconNoBG.png",
+    logo: "./assets/CustomNpcIconNoBG.png",
 
     editLink: {
       pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
