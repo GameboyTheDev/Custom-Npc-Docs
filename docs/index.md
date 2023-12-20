@@ -7,7 +7,7 @@ hero:
   text: "Customizing npcs just got a lot EASIER!"
   tagline: Custom-Npc makes the process of customizing npcs easy.
   image:
-   src: "/assets/CustomNpcIconNoBG.png"
+   src: "/icon.png"
   actions:
     - theme: brand
       text: Install The Plugin
