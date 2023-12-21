@@ -21,10 +21,10 @@ Here is what Custom-Npc has to offer:
 
 ## FAQ
 
-::: details How much does Custom-Npc cost?
-Currently Custom-Npc costs 150 Robux. 
-:::
-
 ::: details Is Custom-Npc Stable?
 Yes it is, but if you encounter any bugs please let me know on [Devforum](https://devforum.roblox.com/t/custom-npc-customizing-npcs-just-got-a-lot-easier).
+:::
+
+::: details Is Custom-Npc Helpful?
+Custom-Npc does come in handy when going through the trenches of customizing your npc as you can easily add in animations etc.
 :::
