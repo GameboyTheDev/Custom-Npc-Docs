@@ -32,9 +32,9 @@ features:
   - title: Easy To Use!
     icon: 🔥
     details: Customize your npcs with a fresh and clean user interface that I have worked long hours on.
-  - title: Cheap!
-    icon: 💸
-    details: Get Custom-Npc for the low cost of only 150 ROBUX!
+  - title: Compatible!
+    icon: 😎
+    details: Compatible with both R6 & R15!
 
 # features:
 #   - title: Save & Load Npcs!
