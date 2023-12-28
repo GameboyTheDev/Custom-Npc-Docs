@@ -14,7 +14,7 @@ export default defineConfig({
     logo: "/icon.png",
 
     editLink: {
-      pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+      pattern: 'https://github.com/GameboyTheDev/Custom-Npc-Docs',
       text: 'Edit this page on GitHub'
     },
 
