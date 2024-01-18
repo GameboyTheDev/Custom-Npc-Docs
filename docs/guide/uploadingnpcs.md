@@ -6,7 +6,7 @@ Here is how you can upload npcs into your workspace.
 To upload an npc you must be editing it.
 :::
 
-To upload an npc click on the orange upload icon _that is next to the green create npc button_
+To upload an npc click on the white icon that has an arrow pointing up.
 
 ![image](/assets/tutorialAssets/TopBarImage.png)
 

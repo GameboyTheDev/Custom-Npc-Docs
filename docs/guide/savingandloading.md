@@ -3,7 +3,7 @@
 
 Once you are editing an npc you can save the npc with the plugin.
 
-You can do this by clicking on the orange button that looks like a save button _that is also next to the red shirt_.
+You can do this by clicking on the orange button that looks like a save button.
 
 ![image](/assets/tutorialAssets/TopBarImage.png)
 

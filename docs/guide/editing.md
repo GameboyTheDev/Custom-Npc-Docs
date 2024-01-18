@@ -66,7 +66,7 @@ To change your npc's skin color click on the paint brush icon to open the skin c
 ![image](/assets/tutorialAssets/SkinColorFrame.png)
 :::
 
-To change a body part's skin color just add in the 3 rgb values into the input box.
+To change a body part's skin color just add in the 3 rgb values into the input boxes.
 
 ::: warning
 Only RGB is supported.

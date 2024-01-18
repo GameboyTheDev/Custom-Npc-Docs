@@ -10,7 +10,7 @@ hero:
    src: "/icon.png"
   actions:
     - theme: brand
-      text: Install The Plugin
+      text: Install Custom-Npc
       link: "https://create.roblox.com/marketplace/asset/14535952834/"
     - theme: alt
       text: Learn more

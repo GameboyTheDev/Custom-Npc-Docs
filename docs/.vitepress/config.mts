@@ -13,6 +13,10 @@ export default defineConfig({
     siteTitle: "Custom-Npc",
     logo: "/icon.png",
 
+    search: {
+      provider: "local"
+    },
+
     editLink: {
       pattern: 'https://github.com/GameboyTheDev/Custom-Npc-Docs',
       text: 'Edit this page on GitHub'
@@ -41,8 +45,9 @@ export default defineConfig({
           items: [
             { text: 'Creating An Npc', link: '/guide/' },
             { text: 'Saving & Loading Npcs', link: '/guide/savingandloading' },
-            { text: 'Uploading Npcs', link: '/guide/uploadingnpcs' },
             { text: 'Editing An Npc', link: '/guide/editing' },
+            { text: 'Uploading Npcs', link: '/guide/uploadingnpcs' },
+            {text: 'Importing Npcs', link: '/guide/importingnpcs'}
           ]
         }
       ],
