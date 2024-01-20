@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Custom-Npc"
   text: "Customizing npcs just got a lot EASIER!"
-  tagline: Custom-Npc makes the process of customizing npcs easy.
+  tagline: Custom-Npc makes the process of creating & customizing npcs/rigs/characters easy.
   image:
    src: "/icon.png"
   actions:
