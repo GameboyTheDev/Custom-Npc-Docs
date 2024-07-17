@@ -1,6 +1,6 @@
 # Guide
 
-Here is a guide on how to use Custom-Npc
+Here is a simple guide on how to use Custom-Npc
 
 ## Creating An Npc
 
@@ -11,5 +11,5 @@ To start creating an npc click on the green icon.
 After you click on the green icon you will be prompted to select the rig type of your choice.
 
 ::: warning
-You cannot change the rig type further on with the plugin.
+You cannot change the rig type further on.
 :::

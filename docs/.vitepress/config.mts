@@ -1,4 +1,11 @@
 import { defineConfig } from 'vitepress'
+// import { UserConfig } from 'vite'
+
+// const viteConfig: UserConfig = {
+//   server: {
+//     port: 4001 // change this to your desired port
+//   }
+// }
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -8,6 +15,8 @@ export default defineConfig({
   base: "/Custom-Npc-Docs/",
 
   head: [['link', { rel: 'icon', href: '/Custom-Npc-Docs/favicon.ico' }]],
+
+  // vite: viteConfig,
 
   themeConfig: {
     siteTitle: "Custom-Npc",
@@ -32,7 +41,7 @@ export default defineConfig({
       { text: "Guide", link: '/guide/index' },
       { text: "Learn more", link: '/learnmore' },
       { text: "Changelog", link: '/changelog' },
-      { text: "Install", link: "https://create.roblox.com/marketplace/asset/14535952834/" }
+      { text: "Install", link: "https://gameboythedev.itch.io/custom-npc" }
 
       // { text: 'Home', link: '/' },
       // { text: 'Examples', link: '/markdown-examples' }

@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Install Custom-Npc
-      link: "https://create.roblox.com/marketplace/asset/14535952834/"
+      link: "https://gameboythedev.itch.io/custom-npc"
     - theme: alt
       text: Learn more
       link: ./learnmore
@@ -34,7 +34,7 @@ features:
     details: Customize your npcs with a fresh and clean user interface that I have worked long hours on.
   - title: Compatible!
     icon: 😎
-    details: Compatible with both R6 & R15!
+    details: Compatible with both R6, R15 and Robloxian 2.0!
 
 # features:
 #   - title: Save & Load Npcs!

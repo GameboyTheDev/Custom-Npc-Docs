@@ -10,12 +10,13 @@ As Custom-Npc comes with a lot of features to make creating npcs a more pleasent
 ## Features
 Here is what Custom-Npc has to offer:
 
-* Customize your rigs clothing (Accessories, shirts, pants)
+* Customize your rigs clothing (Accessories, shirts etc.)
 * Compatible with both R6 and R15 rigs
-* Easily change your rigs skin color with the built in editor
-* Easily add animation bundles to your rigs with the built in editor
+* Easily change your rigs skin color
+* Easily add animations to your rigs
 * Able to save your custom rigs that you have designed at any time
 * Able to load your rigs into workspace with a click of a button
+* Easily import already existing rigs into the editor
 * Simple and straight-forward UI Design
 * Easy to use
 

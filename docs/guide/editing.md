@@ -17,10 +17,10 @@ At the moment you can only add pants, shirts and accessories to your npc.
 <hr>
 
 ::: info
-As you edit your npc the npc view window will also be updating, showing you your npc's outcome. 
+To add layered clothing insert it in the accessories section.
 :::
 
-To add a clothing piece to your npc input the asset id into your desired section and press on the add button.
+To add a clothing piece to your npc input the asset id into your desired section and click insert.
 
 ::: danger
 Don't add 'rbxassetid://' infront of the asset id as it won't work, just add in the asset id number only!
@@ -30,10 +30,6 @@ Don't add 'rbxassetid://' infront of the asset id as it won't work, just add in 
 <hr>
 
 To remove clothing from your npc just click on the clothing piece's name that you want to remove on the small list below the inserting id textbox.
-
-::: details Example
-![image](/assets/tutorialAssets/RemovingClothing.png)
-:::
 
 ## Animations
 <hr>

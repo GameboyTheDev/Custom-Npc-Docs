@@ -1,6 +1,14 @@
 # Changelog
 All of Custom-Npc's changes and updates will be listed here.
 
+## Latest: V1.3.3
+* Now you can add insert any user on roblox into the editor
+* Support added for Robloxian 2.0
+* Reviews added
+* Switch between dark and light mode
+* UI Revamp
+* Bug fixes
+
 ## V1.2.3 - Importing Update
 <!-- ::: details Update Details -->
 * Now able to import already made npcs into the editor.
