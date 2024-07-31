@@ -17,6 +17,7 @@ Here is what Custom-Npc has to offer:
 * Able to save your custom rigs that you have designed at any time
 * Able to load your rigs into workspace with a click of a button
 * Easily import already existing rigs into the editor
+* Easily import players into the editor
 * Simple and straight-forward UI Design
 * Easy to use
 
